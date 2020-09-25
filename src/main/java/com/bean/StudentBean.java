@@ -11,6 +11,9 @@ public class StudentBean {
 	private String sEmail;
 	private String sPassword;
 	private int sAge;
+	private String Date;
+	
+	
 
 	public int getsId() {
 		return sId;
